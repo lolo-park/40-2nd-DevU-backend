@@ -120,19 +120,19 @@
 ------
 
 ## 데모영상 
-[링크](https://www.youtube.com/watch?v=Ef0Vk5RPGYA)
+[링크](https://youtu.be/CccD3q0OHPM)
 
 </br>
 
 # 구현 기능 
 
-| 로그인 | <img width=30% src=https://user-images.githubusercontent.com/117628412/210352969-c0388e86-f8b1-417a-ae48-fa3073a3166e.gif> |
+| 로그인 | ㅇㅇ |
 | :--: | :--: |
-| 회원가입 | <img width=30% src=https://user-images.githubusercontent.com/117628412/210353217-4f7275be-f915-47b5-b31c-cb08660d038a.gif> |
-| 네비게이션  | <img width=30% src=https://user-images.githubusercontent.com/117628412/210353127-faa27bc4-c00c-4bc0-9da8-f1eb6b4ba8ae.gif> |
-| 상세페이지 모달 | <img width=30% src=https://user-images.githubusercontent.com/117628412/210353338-1f71298a-2668-487e-8e5f-d0869f124fcc.gif> |
-| 메인페이지 fadein | <img width=30% src=https://user-images.githubusercontent.com/117628412/210353855-ee47954d-c5af-46d3-85d1-49ac586d5179.gif> |
-| 검색 | <img width=30% src="https://user-images.githubusercontent.com/117628412/210353734-7466faa2-99cd-48ec-86f3-f8dfe9ad36ad.gif"> |
+| 회원가입 | ㅇㅇ |
+| 네비게이션 | ㅇㅇ |
+| 상세페이지 모달 | ㅇㅇ |
+| 메인페이지 fadein | ㅇㅇ |
+| 검색 | ㅇㅇ |
 
 ## References 
 * 이 프로젝트는 [리디 공식 홈페이지](https://ridibooks.com/ebook/recommendation)를 참조하여 학습목적으로 만들었습니다. 
