@@ -121,13 +121,14 @@
 
 # 구현 기능 
 
-| 로그인 | ㅇㅇ |
+| 로그인 | <img width="1343" alt="image" src="https://user-images.githubusercontent.com/117656236/218250760-c4a50ea6-8daf-4989-8a80-74b4913a5d16.png"> |
 | :--: | :--: |
-| 회원가입 | ㅇㅇ |
-| 네비게이션 | ㅇㅇ |
-| 상세페이지 모달 | ㅇㅇ |
-| 메인페이지 fadein | ㅇㅇ |
-| 검색 | ㅇㅇ |
+| 메인페이지 | <img width="1273" alt="image" src="https://user-images.githubusercontent.com/117656236/218250799-8d93f1d0-c6dd-4a51-9b81-786f806c74ca.png"> |
+| 리스트페이지 | <img width="1269" alt="image" src="https://user-images.githubusercontent.com/117656236/218250830-ebb477eb-894d-4965-83a2-9bee5c8c84f0.png"> |
+| 디테일페이지 | ![image](https://user-images.githubusercontent.com/117656236/218250893-4a2b3160-53b8-4b01-88ec-7c638afa8d8c.png) |
+| 서재 | <img width="1150" alt="image" src="https://user-images.githubusercontent.com/117656236/218250908-51b059be-3fa1-48d4-b8f0-de45c04718e0.png"> |
+| 뷰어 | <img width="1265" alt="image" src="https://user-images.githubusercontent.com/117656236/218250928-b212d5be-cfa0-4507-8acd-196064d59fc4.png"> |
+| 검색 | <img width="1264" alt="image" src="https://user-images.githubusercontent.com/117656236/218250959-c578f159-b625-458d-8283-fa8b045e151b.png"> |
 
 ## References 
 * 이 프로젝트는 [리디 공식 홈페이지](https://ridibooks.com/ebook/recommendation)를 참조하여 학습목적으로 만들었습니다. 
