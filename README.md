@@ -1,6 +1,6 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=200&fontAlignY=40&text=DevU&color=gradient)
 
-<h1> 개발 서적 판매 사이트를 구축 </h1>
+<h1> 개발 서적 판매 사이트(DEVU) 구축 </h1>
 
 ## 프로젝트 선정이유 
 * 4차 산업혁명으로 IT 산업은 앞으로 계속 발전할 것임
